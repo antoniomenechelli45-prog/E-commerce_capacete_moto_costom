@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER MOTO | Capacetes Custom & Vintage",
+  "description": "E-commerce premium especializado em capacetes artesanais para motocicletas custom, cruiser, chopper e café racer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
